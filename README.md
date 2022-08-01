@@ -1,4 +1,4 @@
 My name is Everett
-I am a mechanical engineering student interested in the Aerospace Industry
-Projects here:
-TVC Model Rocket
+Interested in positions in the GNC side of aerospace <br />
+Projects here: <br />
+H infinity controlled drone <br />
